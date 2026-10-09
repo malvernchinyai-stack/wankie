@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Wankie Docs – Wankie Chicken & Hatchery",
+  "short_name": "Wankie Docs",
+  "description": "Offline quotations, invoices, BOQs, contracts and distributor application letters for Wankie Chicken & Hatchery (Private) Limited. Developed by Pilotage Business Consultants (Private) Limited.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#000A4D",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "screenshots/home.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Home – create documents" },
+    { "src": "screenshots/invoice.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Branded invoice preview" }
+  ]
+}
